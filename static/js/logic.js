@@ -7,15 +7,15 @@ const leafletAttribution = "Map data &copy; <a href=\"https://www.openstreetmap.
 const mapLayerSettings = [
 	{
 		name: "Statalite",
-		id: "light-v10"
+		id: "satellite-v9"
 	},
 	{
 		name: "Grayscale",
-		id: "dark-v10"
+		id: "light-v10"
 	},
 	{
 		name: "Outdoors",
-		id: "satellite-streets-v10"
+		id: "outdoors-v11"
 	}
 ];
 const mapOverlaySettings = [
